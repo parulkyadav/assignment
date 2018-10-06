@@ -1,0 +1,4 @@
+num=int(input("Enter the number for calculating sum of digits : "))
+l = len(num)
+print(l)
+
